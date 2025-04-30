@@ -19,19 +19,23 @@
       margin: auto;
     }
 
-    header {
+    .profile-pic {
       display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 20px;
+      justify-content: center;
+      margin-bottom: 20px;
     }
 
-    header img {
+    .profile-pic img {
       width: 120px;
+      height: 120px;
       border-radius: 50%;
+      object-fit: cover;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 10px;
     }
 
     h1 {
@@ -59,12 +63,13 @@
 </head>
 <body>
 
-  <header>
-    <div>
-      <h1>Dumitras Florentin</h1>
-      <p><strong>Cyber Security Specialist | MIT Graduate</strong></p>
-    </div>
+  <div class="profile-pic">
     <img src="Screenshot_20250430_171808_Gallery.jpg" alt="Dumitras Florentin">
+  </div>
+
+  <header>
+    <h1>Dumitras Florentin</h1>
+    <p><strong>Cyber Security Specialist | MIT Graduate</strong></p>
   </header>
 
   <p>I am <strong>Dumitras Florentin</strong>, a 27-year-old Cyber Security Specialist who completed professional courses at <strong>MIT</strong>. I'm passionate about ethical hacking, data protection, and building secure digital systems.</p>
@@ -97,6 +102,11 @@
     <li><a href="https://github.com/dumitrasflorentin/threatscan">ThreatScan</a> – Python-based network traffic analyzer</li>
     <li><a href="https://github.com/dumitrasflorentin/securelogin">SecureLogin</a> – MFA-enabled authentication system</li>
     <li><a href="https://github.com/dumitrasflorentin/phishdetector">PhishDetector</a> – ML-based phishing detection</li>
+  </ul>
+
+  <h2>Certifications</h2>
+  <ul>
+    <li><strong>MITx</strong> – Ethical Hacking Certificate (Massachusetts Institute of Technology)</li>
   </ul>
 
   <h2>Contact</h2>
