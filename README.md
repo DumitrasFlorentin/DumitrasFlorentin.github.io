@@ -1,48 +1,54 @@
 # 👋 Hello, I'm Dumitraș Florentin
 
-### 🛡️ Cyber Security Specialist | IT Graduate | Passionate about digital safety and innovation
+### 🛡️ Cyber Security Specialist | MIT Graduate  
+Passionate about ethical hacking, military cybersecurity, and digital safety.
 
-I'm **Dumitraș Florentin**, a 27-year-old graduate in **Cyber Security** from **Ulster University, Belfast**. I’m passionate about cybersecurity, ethical hacking, and building safer digital systems. I love working on projects that involve network protection, malware analysis, and threat intelligence.
+I'm **Dumitras Florentin**, a Cyber Security Specialist who completed professional training at **MIT**.  
+I'm passionate about ethical hacking, data protection, **military-grade cybersecurity**, and building secure digital infrastructures.
 
 ---
 
-## 💼 Professional Interests
-- Cyber Security & Threat Detection
-- Network Security
-- Penetration Testing
-- Python & PowerShell for Security Automation
+## 💼 Professional Skills
+- Cyber Security & Threat Detection  
+- Military Cybersecurity Systems  
+- Network Security  
+- Penetration Testing  
+- Security Automation (Python & PowerShell)  
 - Digital Forensics
 
 ---
 
 ## 🧰 Technologies & Tools
-- **Languages**: Python, Bash, JavaScript, PowerShell
-- **Security Tools**: Wireshark, Burp Suite, Metasploit, Nmap, OWASP ZAP
-- **Cloud**: AWS (Certified Practitioner)
+- **Languages**: Python, Bash, JavaScript, PowerShell  
+- **Security Tools**: Wireshark, Burp Suite, Metasploit, Nmap, OWASP ZAP  
+- **Cloud**: AWS (Certified Practitioner)  
 - **Other**: Git, Docker, Kali Linux
 
 ---
 
-## 📚 Education
-**Ulster University (Belfast)**  
-*BSc (Hons) Cyber Security*  
-Graduated: 2024  
-Final Year Project: _"Automated Phishing Detection Using Machine Learning"_
+## 🎓 Education
+**Massachusetts Institute of Technology (MIT)**  
+Cyber Security Professional Courses  
+Completed  
+*Final project: "Automated Phishing Detection Using Machine Learning"*
 
 ---
 
-## 📂 Featured Projects
-- [`ThreatScan`](https://github.com/dumitrasflorentin/threatscan): Python-based network traffic analyzer
-- [`SecureLogin`](https://github.com/dumitrasflorentin/securelogin): MFA-enabled user authentication system
-- [`PhishDetector`](https://github.com/dumitrasflorentin/phishdetector): ML model for phishing email detection
+## 📂 Projects
+- [ThreatScan](https://github.com/dumitrasflorentin/threatscan) – Python network traffic analyzer  
+- [SecureLogin](https://github.com/dumitrasflorentin/securelogin) – MFA authentication system  
+- [PhishDetector](https://github.com/dumitrasflorentin/phishdetector) – Phishing detection using ML
 
 ---
 
-## 📫 Connect with Me
-- GitHub: [github.com/dumitrasflorentin](https://github.com/dumitrasflorentin)
-- LinkedIn: [linkedin.com/in/dumitrasflorentin](https://linkedin.com/in/dumitrasflorentin)
-- Email: dumitras38@gmail.com
+## 🏅 Certifications
+- **MITx** – Ethical Hacking Certificate
 
 ---
 
-> “Cybersecurity is not just about technology. It’s about people, processes, and constant learning.”
+## 📫 Contact
+- **Email**: dumitras38@gmail.com  
+- **Phone**: +44 7459 886925  
+- **GitHub**: [github.com/dumitrasflorentin](https://github.com/dumitrasflorentin)
+
+> “Cybersecurity is not just about technology. It’s about people, processes, and continuous learning.”
